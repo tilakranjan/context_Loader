@@ -5,7 +5,7 @@ Context loader like Facebook with pure javascript
 
 ## Getting Started
 
-contextLoader.addLoader('yourDiv'). 
+contextLoader.addLoader('#yourDiv'). 
 'yourDiv' - the id of the div where context loader will appear
 
 ### Prerequisites
@@ -14,15 +14,18 @@ Its wriiten in pure css and javascript. Hence no prior library is needed.
 
 ### Installing
 
-1. add the css and js file.
-<link rel="stylesheet" href="css/contextLoader.min.css"> 
+1. add the css file.
+<link rel="stylesheet" href="location/to/contextLoader.min.css"> 
 
-2. contextLoader.addLoader('yourDiv')
+2. add the js file.
+<link rel="stylesheet" href="location/to/contextLoader.min.js"> 
+
+3. contextLoader.addLoader('div_selector')
 
 For example. 
 We have a div with id "demoDiv". 
 To add context loader:
-    **contextLoader.addLoader('demoDiv')**. 
+    **contextLoader.addLoader('#demoDiv')**. 
 And to load your content you can use javascript or jQuery.
 
 ## Demo

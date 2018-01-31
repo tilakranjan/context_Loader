@@ -91,7 +91,7 @@
                 $('input[type=radio]').change(function() {
                     console.log(this.value);
                     if (this.value == 'loader') {
-                        contextLoader.addLoader('contentDiv')
+                        contextLoader.addLoader('#contentDiv')
                     }
                     else if (this.value == 'context') {
                         $('#contentDiv').html('<h2>Hello World!</h2>')
