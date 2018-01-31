@@ -1,7 +1,7 @@
 # context_Loader
 Context loader like Facebook with pure javascript
 
-![alt text](http://url/to/img.png)
+![alt text](https://tilakranjan.github.io/contextLoader/contextLoader.png)
 
 ## Getting Started
 
