@@ -6,7 +6,7 @@ Context loader like Facebook with pure javascript
 ## Getting Started
 
 contextLoader.addLoader('#yourDiv'). 
-'yourDiv' - the id of the div where context loader will appear
+'#yourDiv' - the selector for the div where context loader will appear.
 
 ### Prerequisites
 
