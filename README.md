@@ -30,7 +30,7 @@ And to load your content you can use javascript or jQuery.
 
 ## Demo
 
-https://tilakranjan.github.io/contextLoader/
+https://tilakranjan.github.io/project/contextLoader/
 
 ## Authors
 
